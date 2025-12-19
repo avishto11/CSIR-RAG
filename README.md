@@ -8,11 +8,13 @@ Both chatbots use **Excel as the knowledge source**, **Sentence Transformers for
 
 ## 📂 Repository Structure
 
+
+```text
 .
-├── intent_aware_rag_chatbot.py # Intent-aware Career & Mental Health Assistant
-├── career_faq_chatbot.py # Simple Career FAQ RAG Chatbot
-├── Career.xlsx # Knowledge base (Excel)
-├── chroma_db/ # Local vector DB (auto-created)
+├── intent_aware_rag_chatbot.py   # Intent-aware Career & Mental Health Assistant
+├── career_faq_chatbot.py         # Simple Career FAQ RAG Chatbot
+├── Career.xlsx                  # Knowledge base (Excel)
+├── chroma_db/                   # Local vector DB (auto-created)
 └── README.md
 
 ---
