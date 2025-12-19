@@ -18,6 +18,7 @@ Both chatbots use **Excel as the knowledge source**, **Sentence Transformers for
 └── README.md
 
 ---
+```
 
 ## 🤖 Chatbots Overview
 
